@@ -1,0 +1,7 @@
+lxml==4.6.2
+python-pptx==0.6.21
+requests==2.25.1
+session_info==1.0.0
+tldextract==3.1.2
+wget==3.2
+python-dotenv
